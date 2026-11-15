@@ -11,8 +11,16 @@
   "PollMinutes": 0,
   "MaintenanceAllow": [],
   "DisabledFeatures": [],
-  "Banned": [],
-  "UpdatedUtc": "2026-11-15T12:29:59.7420160\u002B00:00",
+  "Banned": [
+    {
+      "Id": "794792318359830559",
+      "Name": "",
+      "Reason": "",
+      "Date": "2026-11-15",
+      "UntilUtc": ""
+    }
+  ],
+  "UpdatedUtc": "2026-11-15T12:41:24.4501785\u002B00:00",
   "UpdatedBy": "Crexx",
   "Log": [
     {
@@ -99,6 +107,11 @@
       "Time": "2026-11-15T12:29:59.7420127\u002B00:00",
       "By": "Crexx",
       "Text": "Saved without changes"
+    },
+    {
+      "Time": "2026-11-15T12:41:24.4501629\u002B00:00",
+      "By": "Crexx",
+      "Text": "banned 794792318359830559"
     }
   ]
 }
