@@ -11,16 +11,8 @@
   "PollMinutes": 0,
   "MaintenanceAllow": [],
   "DisabledFeatures": [],
-  "Banned": [
-    {
-      "Id": "1406217646453686302",
-      "Name": "",
-      "Reason": "",
-      "Date": "2026-11-15",
-      "UntilUtc": ""
-    }
-  ],
-  "UpdatedUtc": "2026-11-15T12:05:39.4709640\u002B00:00",
+  "Banned": [],
+  "UpdatedUtc": "2026-11-15T12:06:12.6384725\u002B00:00",
   "UpdatedBy": "Crexx",
   "Log": [
     {
@@ -62,6 +54,11 @@
       "Time": "2026-11-15T12:05:39.4709426\u002B00:00",
       "By": "Crexx",
       "Text": "banned 1406217646453686302"
+    },
+    {
+      "Time": "2026-11-15T12:06:12.6384487\u002B00:00",
+      "By": "Crexx",
+      "Text": "unbanned 1406217646453686302"
     }
   ]
 }
