@@ -2,5 +2,23 @@
   "Maintenance": false,
   "MaintenanceText": "",
   "Announcement": "",
-  "Banned": []
+  "AnnouncementTitle": "",
+  "AnnouncementUntilUtc": "",
+  "BackAtUtc": "",
+  "MinVersion": "",
+  "UpdateUrl": "",
+  "BetaOnly": false,
+  "PollMinutes": 0,
+  "MaintenanceAllow": [],
+  "DisabledFeatures": [],
+  "Banned": [],
+  "UpdatedUtc": "2026-11-15T11:49:16.3593912\u002B00:00",
+  "UpdatedBy": "Crexx",
+  "Log": [
+    {
+      "Time": "2026-11-15T11:49:16.3590298\u002B00:00",
+      "By": "Crexx",
+      "Text": "Saved without changes"
+    }
+  ]
 }
