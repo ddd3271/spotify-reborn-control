@@ -1,12 +1,13 @@
 {
-  "Maintenance": false,
-  "MaintenanceText": "",
+  "Maintenance": true,
+  "MaintenanceText": "WE ARE CURRENTLY UPDATING!",
   "Announcement": "",
   "AnnouncementTitle": "",
   "AnnouncementUntilUtc": "",
   "BackAtUtc": "",
   "MinVersion": "",
   "UpdateUrl": "",
+  "AppealText": "",
   "BetaOnly": false,
   "PollMinutes": 0,
   "MaintenanceAllow": [],
@@ -20,7 +21,7 @@
       "UntilUtc": ""
     }
   ],
-  "UpdatedUtc": "2026-11-15T12:41:24.4501785\u002B00:00",
+  "UpdatedUtc": "2026-11-15T17:02:06.9469841\u002B00:00",
   "UpdatedBy": "Crexx",
   "Log": [
     {
@@ -112,6 +113,11 @@
       "Time": "2026-11-15T12:41:24.4501629\u002B00:00",
       "By": "Crexx",
       "Text": "banned 794792318359830559"
+    },
+    {
+      "Time": "2026-11-15T17:02:06.9469597\u002B00:00",
+      "By": "Crexx",
+      "Text": "maintenance ON"
     }
   ]
 }
