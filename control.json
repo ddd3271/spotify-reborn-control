@@ -1,10 +1,10 @@
 {
-  "Maintenance": true,
+  "Maintenance": false,
   "MaintenanceText": "",
   "Announcement": "",
   "AnnouncementTitle": "",
   "AnnouncementUntilUtc": "",
-  "BackAtUtc": "2026-11-15T12:29:59.3781650\u002B00:00",
+  "BackAtUtc": "",
   "MinVersion": "",
   "UpdateUrl": "",
   "BetaOnly": false,
@@ -12,7 +12,7 @@
   "MaintenanceAllow": [],
   "DisabledFeatures": [],
   "Banned": [],
-  "UpdatedUtc": "2026-11-15T12:15:04.1466372\u002B00:00",
+  "UpdatedUtc": "2026-11-15T12:16:04.3933389\u002B00:00",
   "UpdatedBy": "Crexx",
   "Log": [
     {
@@ -74,6 +74,11 @@
       "Time": "2026-11-15T12:15:04.1466175\u002B00:00",
       "By": "Crexx",
       "Text": "maintenance ON"
+    },
+    {
+      "Time": "2026-11-15T12:16:04.3933235\u002B00:00",
+      "By": "Crexx",
+      "Text": "maintenance OFF"
     }
   ]
 }
