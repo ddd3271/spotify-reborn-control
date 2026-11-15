@@ -11,16 +11,8 @@
   "PollMinutes": 0,
   "MaintenanceAllow": [],
   "DisabledFeatures": [],
-  "Banned": [
-    {
-      "Id": "1406217646453686302",
-      "Name": "",
-      "Reason": "NIGGER!",
-      "Date": "2026-11-15",
-      "UntilUtc": ""
-    }
-  ],
-  "UpdatedUtc": "2026-11-15T11:52:49.1962517\u002B00:00",
+  "Banned": [],
+  "UpdatedUtc": "2026-11-15T11:59:44.5759615\u002B00:00",
   "UpdatedBy": "Crexx",
   "Log": [
     {
@@ -32,6 +24,11 @@
       "Time": "2026-11-15T11:52:49.1962293\u002B00:00",
       "By": "Crexx",
       "Text": "banned 1406217646453686302"
+    },
+    {
+      "Time": "2026-11-15T11:59:44.5759365\u002B00:00",
+      "By": "Crexx",
+      "Text": "unbanned 1406217646453686302"
     }
   ]
 }
