@@ -1,6 +1,6 @@
 {
-  "Maintenance": true,
-  "MaintenanceText": "WE ARE CURRENTLY UPDATING!",
+  "Maintenance": false,
+  "MaintenanceText": "",
   "Announcement": "",
   "AnnouncementTitle": "",
   "AnnouncementUntilUtc": "",
@@ -21,7 +21,7 @@
       "UntilUtc": ""
     }
   ],
-  "UpdatedUtc": "2026-11-15T17:02:06.9469841\u002B00:00",
+  "UpdatedUtc": "2026-11-16T04:41:07.1097078\u002B00:00",
   "UpdatedBy": "Crexx",
   "Log": [
     {
@@ -118,6 +118,11 @@
       "Time": "2026-11-15T17:02:06.9469597\u002B00:00",
       "By": "Crexx",
       "Text": "maintenance ON"
+    },
+    {
+      "Time": "2026-11-16T04:41:07.1096912\u002B00:00",
+      "By": "Crexx",
+      "Text": "maintenance OFF"
     }
   ]
 }
