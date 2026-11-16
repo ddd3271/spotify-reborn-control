@@ -7,6 +7,7 @@
   "BackAtUtc": "",
   "MinVersion": "",
   "UpdateUrl": "",
+  "AppealText": "",
   "BetaOnly": false,
   "PollMinutes": 0,
   "MaintenanceAllow": [],
@@ -20,7 +21,7 @@
       "UntilUtc": ""
     }
   ],
-  "UpdatedUtc": "2026-11-16T05:27:31.6863812\u002B00:00",
+  "UpdatedUtc": "2026-11-16T05:31:45.7725231\u002B00:00",
   "UpdatedBy": "Crexx",
   "Log": [
     {
@@ -125,6 +126,11 @@
     },
     {
       "Time": "2026-11-16T05:27:31.6863590\u002B00:00",
+      "By": "Crexx",
+      "Text": "Saved without changes"
+    },
+    {
+      "Time": "2026-11-16T05:31:45.7725109\u002B00:00",
       "By": "Crexx",
       "Text": "Saved without changes"
     }
